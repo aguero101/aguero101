@@ -1,6 +1,7 @@
 Buenas, soy Joaquín Agüero, Tengo 19 años y Estudio Programación en la UTN 2023 con ganas de seguir aprendiendo y sumando 👋🧉
 
-![0f47449ca8e7f8f36e8099b4cf821589](https://github.com/aguero101/aguero101/assets/142456010/4f1238df-d230-4690-97cb-645b39e52de6)
+![que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica](https://github.com/aguero101/aguero101/assets/142456010/b1855948-570b-42c6-bbb6-e141fd5ea4f3)
+
 
 
 
