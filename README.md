@@ -1,4 +1,6 @@
-### Hi there 👋
+*** *** Buenas, soy Joaquín Agüero, Estudio Programación en la UTN 2023 con ganas de seguir aprendiendo y sumando 👋🧉
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://cdn.pixabay.com/photo/2020/06/28/22/09/argentina-flag-5350831_1280.jpg)
+
 
 <!--
 **aguero101/aguero101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
