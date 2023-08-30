@@ -1,5 +1,5 @@
 *** *** Buenas, soy Joaquín Agüero, Estudio Programación en la UTN 2023 con ganas de seguir aprendiendo y sumando 👋🧉*** ***
-![foto de la bandera Argentina.](https://cdn.pixabay.com/photo/2020/06/28/22/09/argentina-flag-5350831_1280.jpg)
+
 
 
 <!--
